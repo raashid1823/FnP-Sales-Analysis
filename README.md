@@ -1,6 +1,6 @@
 # FnP-Sales-Analysis
 
-Here's a detailed executive summary based on the sales analysis of the Ferns and Petals company:
+Here's a detailed executive summary based on the sales analysis of the Ferns and Petals company using Excel:
 
 ---
 
